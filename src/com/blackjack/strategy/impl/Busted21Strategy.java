@@ -1,11 +1,11 @@
-package com.blackjack.stretagy.impl;
+package com.blackjack.strategy.impl;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.ToIntFunction;
 
 import com.blackjack.gamers.Player;
-import com.blackjack.stretagy.GameStrategy;
+import com.blackjack.strategy.GameStrategy;
 
 //Specific class that tests busted strategy
 public class Busted21Strategy implements GameStrategy {

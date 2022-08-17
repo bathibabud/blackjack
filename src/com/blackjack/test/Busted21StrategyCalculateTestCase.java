@@ -6,8 +6,8 @@ import org.junit.Test;
 
 import com.blackjack.gamers.Dealer;
 import com.blackjack.gamers.Player;
-import com.blackjack.stretagy.GameStrategy;
-import com.blackjack.stretagy.impl.Busted21Strategy;
+import com.blackjack.strategy.GameStrategy;
+import com.blackjack.strategy.impl.Busted21Strategy;
 import com.blackjack.test.service.Busted21StrategyCalculateScoreTestCaseService;
 
 //Class to explicitly test the calculateScore method in Busted21Strategy

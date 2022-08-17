@@ -1,4 +1,4 @@
-package com.blackjack.stretagy;
+package com.blackjack.strategy;
 
 import java.util.List;
 

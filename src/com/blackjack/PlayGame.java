@@ -11,8 +11,8 @@ import java.util.Set;
 
 import com.blackjack.gamers.Dealer;
 import com.blackjack.gamers.Player;
-import com.blackjack.stretagy.GameStrategy;
-import com.blackjack.stretagy.impl.Busted21Strategy;
+import com.blackjack.strategy.GameStrategy;
+import com.blackjack.strategy.impl.Busted21Strategy;
 
 public class PlayGame {
 
